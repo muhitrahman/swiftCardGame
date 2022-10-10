@@ -1,6 +1,6 @@
 # swiftCardGame
 
-![Screenshot](ScreenShot.png)
+!Screenshot(ScreenShot.png)
 swift card game using UI, 
 
 VStack
