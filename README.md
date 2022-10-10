@@ -1,7 +1,10 @@
 # swiftCardGame
 
-!Screenshot(ScreenShot.png)
-swift card game using UI, 
+<img width="330" alt="screenshot" src="https://user-images.githubusercontent.com/36333637/194856318-2023afd1-927e-4aaf-af73-84df1f64faa8.png">
+
+swift card game using ->
+
+UI
 
 VStack
 
